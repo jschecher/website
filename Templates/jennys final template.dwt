@@ -16,6 +16,7 @@
 </head>
 
 <body>
+<h1>Jenny's Music Site </h1>
 <p><a href="../why-i-love-music/index.html">Why I love Music</a></p>
 <!-- TemplateBeginIf cond="_document['Why I love Music']" -->
 <ul>
