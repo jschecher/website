@@ -12,6 +12,7 @@
 <!-- TemplateParam name="Favorite Artists at the Moment" type="boolean" value="true" -->
 <!-- TemplateParam name="Classic Favorites" type="boolean" value="true" -->
 <!-- TemplateParam name="Album Reviews" type="boolean" value="true" -->
+<link href="../style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
