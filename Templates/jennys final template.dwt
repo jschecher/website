@@ -57,7 +57,6 @@
 <p><a href="../album-reviews/index.html">Album Reviews</a></p>
 <!-- TemplateBeginIf cond="_document['Album Reviews']" -->
 <ul>
-  <li><a href="../album-reviews/the-weeknd.html">The Weeknd</a></li>
   <li><a href="../album-reviews/selena.html">Selena Gomez &quot;Revival&quot; </a></li>
   <li><a href="../album-reviews/rihanna.html">Rihanna &quot;Anti&quot; </a></li>
   <li><a href="../album-reviews/drake.html">Drake &quot;Views </a></li>
